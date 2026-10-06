@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>Analysing Mental Health in Student Ecosystem</h1>
+  <p>An interactive Tableau analysis of 1,000 student records: how sleep, study habits, attendance, stress and depression relate to mental health scores and risk levels.</p>
+  <div class="buttons">
+    <a class="btn" href="{{ url_for('dashboard') }}">View Dashboard</a>
+    <a class="btn ghost" href="{{ url_for('story') }}">Read the Story</a>
+  </div>
+</section>
+
+<section class="kpis">
+  <div class="kpi"><strong>5.45</strong><span>Avg. Mental Score</span></div>
+  <div class="kpi"><strong>6.49</strong><span>Avg. Sleep (hours)</span></div>
+  <div class="kpi"><strong>5.50</strong><span>Avg. Depression</span></div>
+  <div class="kpi"><strong>79.96%</strong><span>Avg. Attendance</span></div>
+</section>
+
+<section class="card">
+  <h2>What this project found</h2>
+  <ul>
+    <li>No single factor predicts risk: stress, depression and high-risk share are close across every gender.</li>
+    <li>Study hours and sleep show almost no relationship with academic score or stress.</li>
+    <li>Risk is spread evenly, so broad, inclusive support fits better than targeting one group.</li>
+  </ul>
+</section>
+{% endblock %}

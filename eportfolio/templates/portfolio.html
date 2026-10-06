@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}Portfolio{% endblock %}
+{% block content %}
+<h1 class="page-title">Portfolio</h1>
+
+<section class="card">
+  <h2>About</h2>
+  <p><strong>Atharv Bhosale</strong>: Skillwallet "Data Analytics with Tableau" capstone, completed individually.</p>
+  <p>Project: <em>Analysing Mental Health in Student Ecosystem</em>, a Tableau dashboard and story built on the Personalized Psychological Intervention dataset (1,000 rows, 16 fields).</p>
+</section>
+
+<section class="card">
+  <h2>Technologies used</h2>
+  <ul>
+    <li><strong>Tableau Public</strong>: build and host the interactive dashboard and story</li>
+    <li><strong>Flask</strong>: lightweight Python web framework serving this site</li>
+    <li><strong>HTML and CSS</strong>: structure and style the pages</li>
+    <li><strong>Visual Studio Code</strong>: development environment</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>Links</h2>
+  <ul>
+    <li><a href="https://public.tableau.com/views/StudentMentalHealthAnalysis_17912039586820/StudentMentalHealthAnalysis" target="_blank" rel="noopener">Dashboard on Tableau Public</a></li>
+    <li><a href="https://public.tableau.com/views/Story_17912605038440/Story1" target="_blank" rel="noopener">Story on Tableau Public</a></li>
+    <!-- TODO: replace # with your GitHub repo link -->
+    <li><a href="#">GitHub repository</a></li>
+  </ul>
+</section>
+{% endblock %}
