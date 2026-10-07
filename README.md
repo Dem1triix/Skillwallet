@@ -8,8 +8,8 @@ An interactive Tableau analysis of 1,000 student records, published as a dashboa
 
 | What | Link |
 |---|---|
-| Live website (ePortfolio) | https://student-mental-health-g6de.onrender.com/ |
-| Tableau Public dashboard | https://public.tableau.com/views/StudentMentalHealthAnalysis_17912039586820/StudentMentalHealthAnalysis |
+| Live website (ePortfolio) | [[Click here](https://student-mental-health-g6de.onrender.com/)] |
+| Tableau Public dashboard | [[Click here](https://public.tableau.com/views/StudentMentalHealthAnalysis_17912039586820/StudentMentalHealthAnalysis)] |
 | Tableau Public story | [[Click here](https://public.tableau.com/views/Story_17912605038440/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)] |
 | Demo video | [[Click here](https://drive.google.com/drive/folders/1ECenNEV8yRh5H4K1Wwhq1lQi96h68Gj6?usp=drive_link)] |
 
