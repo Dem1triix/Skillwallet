@@ -10,8 +10,8 @@ An interactive Tableau analysis of 1,000 student records, published as a dashboa
 |---|---|
 | Live website (ePortfolio) | https://student-mental-health-g6de.onrender.com/ |
 | Tableau Public dashboard | https://public.tableau.com/views/StudentMentalHealthAnalysis_17912039586820/StudentMentalHealthAnalysis |
-| Tableau Public story | [add story link] |
-| Demo video | [add video link] |
+| Tableau Public story | [[Click here](https://public.tableau.com/views/Story_17912605038440/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)] |
+| Demo video | [[Click here](https://drive.google.com/drive/folders/1ECenNEV8yRh5H4K1Wwhq1lQi96h68Gj6?usp=drive_link)] |
 
 ## Problem statement
 
@@ -87,4 +87,5 @@ Tableau Desktop, Tableau Public, Python, Flask, HTML, CSS, Visual Studio Code, G
 
 ## Author
 
-Atharv Bhosale, Skillwallet Data Analytics with Tableau capstone.
+Atharv Bhosale,
+Skillwallet Data Analytics with Tableau capstone.
